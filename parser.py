@@ -1,6 +1,5 @@
 import json
 
-#le o arquivo e fds
 with open("Quake.txt", "r") as arquivo:
     quake_lines = arquivo.readlines()
 
