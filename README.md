@@ -52,7 +52,7 @@ Um Parser para o jogo Quake 3, que lê o arquivo de log (.txt), agrupa os dados 
 <h3>finish(game_count, total_kills, game_list)</h3>
 <p>Insere os valores e informações da partida em uma camada de dicionarios e adiciona o dicionario da partida na lista de partidas.
 <ul>
-  <li><b>game_count (int):</b> valor do jogo atual</li>
-  <li><b>total_kills (int):</b> valor total de mortes que ocorreram no jogo</li>
-  <li><b>game_list (list):</b> lista de jogos</li>
+  <li><b>game_count (int):</b> Valor do jogo atual</li>
+  <li><b>total_kills (int):</b> Valor total de mortes que ocorreram no jogo</li>
+  <li><b>game_list (list):</b> Contém todas as partidas jogadas.</li>
 </ul>
