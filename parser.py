@@ -1,5 +1,7 @@
 import json
 
+# Feito por: Maurício Dolacio
+
 players = []
 
 def findPlayer(id): 
