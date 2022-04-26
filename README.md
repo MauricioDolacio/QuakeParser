@@ -1,7 +1,7 @@
 # QuakeParser
 Um Parser para o jogo Quake 3, que lê o arquivo de log (.txt), agrupa os dados de cada partida e organiza as informações em um .json
 
-<h2>Funcionamento do main()</h2>
+<h2>Funcionamento do Main</h2>
 <p>O programa separa o arquivo .txt linha por linha e as transforma em listas. O arquivo então analisa as linhas e busca alterações na partida e de acordo com as alterações, cria e modifica um dicionario que contem as informações da partida.</p>
 <p>O programa então agrupa os dicionarios das partidas em uma grande lista de partidas e finaliza o inserindo em um .json</p>
 <p>Listas e Variaveis do programa:</p>
